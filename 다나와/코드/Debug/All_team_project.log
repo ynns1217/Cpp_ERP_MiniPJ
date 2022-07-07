@@ -1,0 +1,281 @@
+﻿  client.c
+C:\Users\PKNU\source\repos\All_team_project\client.c(347,14): warning C4047: 'return': 'result *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+  contract_view.c
+  marketing_menu.c
+C:\Users\PKNU\source\repos\All_team_project\marketing_menu.c(6,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PKNU\source\repos\All_team_project\marketing_menu.c(8,7): warning C4013: 'scanf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PKNU\source\repos\All_team_project\marketing_menu.c(9,9): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  MiniPoject_ERP_F_Update_jago.c
+C:\Users\PKNU\source\repos\All_team_project\MiniPoject_ERP_F_Update_jago.c(21,12): warning C4098: 'Update_jago': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniPoject_ERP_F_Update_jago.c(30,12): warning C4098: 'Update_jago': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniPoject_ERP_F_Update_jago.c(37,12): warning C4098: 'Update_jago': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniPoject_ERP_F_Update_jago.c(60,12): warning C4098: 'Update_jago': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniPoject_ERP_F_Update_jago.c(68,12): warning C4098: 'Update_jago': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniPoject_ERP_F_Update_jago.c(76,12): warning C4098: 'Update_jago': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniPoject_ERP_F_Update_jago.c(84,12): warning C4098: 'Update_jago': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniPoject_ERP_F_Update_jago.c(92,12): warning C4098: 'Update_jago': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniPoject_ERP_F_Update_jago.c(100,12): warning C4098: 'Update_jago': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniPoject_ERP_F_Update_jago.c(12,7): warning C4101: 'Select_WH' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniPoject_ERP_F_Update_jago.c(10,10): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+  MiniProject_ERP_0Main_Warehousing.c
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_0Main_Warehousing.c(76,29): warning C4013: 'choijong_jokup_print'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_0Main_Warehousing.c(84,33): warning C4013: 'choijong_jaego_print_all'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_0Main_Warehousing.c(112,37): warning C4013: 'Registration_work_performance'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_0Main_Warehousing.c(116,30): warning C4013: 'Production_warehousing'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_0Main_Warehousing.c(145,35): warning C4013: 'chulgo_jaego_print'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_0Main_Warehousing.c(161,25): warning C4013: 'insertOrderData'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_0Main_Warehousing.c(182,30): warning C4013: 'Insert_Work_order_File'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_0Main_Warehousing.c(227,17): warning C4013: 'orderList'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_0Main_Warehousing.c(234,23): warning C4013: 'deleteOrderData'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_0Main_Warehousing.c(344,17): warning C4013: 'jaego_print'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  MiniProject_ERP_1InitSampleData.c
+  MiniProject_ERP_F_BOM.c
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(75,12): warning C4098: 'Make_BOM': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(81,12): warning C4013: 'print_ITEM'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(105,13): warning C4098: 'Make_BOM': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(120,13): warning C4098: 'Make_BOM': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(155,13): warning C4098: 'Make_BOM': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(165,13): warning C4098: 'Make_BOM': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(192,13): warning C4098: 'Make_BOM': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(201,13): warning C4098: 'Make_BOM': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(43,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(46,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(57,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(36,10): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(233,29): warning C4133: '함수': 'BOMFNode *'과(와) 'BOMFNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(236,32): warning C4133: '함수': 'BOMFNode *'과(와) 'BOMFNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(256,13): warning C4098: 'Make_BOM_F': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(263,13): warning C4098: 'Make_BOM_F': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(274,13): warning C4098: 'Make_BOM_F': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(305,13): warning C4098: 'Make_BOM_F': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(315,13): warning C4098: 'Make_BOM_F': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(326,13): warning C4098: 'Make_BOM_F': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(340,13): warning C4098: 'Make_BOM_F': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(349,13): warning C4098: 'Make_BOM_F': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(245,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(242,11): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(391,14): warning C4047: 'return': 'BOMFNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(398,14): warning C4047: 'return': 'BOMFNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(408,14): warning C4047: 'return': 'BOMFNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(419,42): warning C4047: '함수': 'element'의 간접 참조 수준이 'char [20]'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(419,26): warning C4024: 'BOM_AddClidNode': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(432,14): warning C4047: 'return': 'BOMFNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(439,14): warning C4047: 'return': 'BOMFNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(449,14): warning C4047: 'return': 'BOMFNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(461,53): warning C4047: '함수': 'element'의 간접 참조 수준이 'char [20]'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(461,37): warning C4024: 'BOMF_FoundNode': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(470,48): warning C4047: '함수': 'element'의 간접 참조 수준이 'char [20]'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(470,32): warning C4024: 'BOM_AddClidNode': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(369,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(370,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(366,10): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(510,50): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(513,28): warning C4133: '=': 'BOMFNode *'과(와) 'BOMFNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(517,37): warning C4133: '=': 'BOMFNode *'과(와) 'BOMFNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(518,33): warning C4133: '=': 'BOMFNode *'과(와) 'BOMFNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(515,1): warning C4133: '초기화 중': 'BOMFNode *'과(와) 'BOMFNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(524,26): warning C4047: '==': 'element [50]'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(527,39): warning C4133: '함수': 'BOMFNode *'과(와) 'BOMFNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(529,42): warning C4133: '함수': 'BOMFNode *'과(와) 'BOMFNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(536,40): warning C4133: '함수': 'BOMFNode *'과(와) 'BOMFNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(539,43): warning C4133: '함수': 'BOMFNode *'과(와) 'BOMFNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(561,12): warning C4098: 'Print_Select_BOM': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(568,12): warning C4098: 'Print_Select_BOM': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(578,12): warning C4098: 'Print_Select_BOM': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(593,12): warning C4098: 'Print_Select_BOM': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(555,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(552,10): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_BOM.c(614,12): warning C4098: 'Print_ITEM_File': 'void' 함수에서 값을 반환하고 있습니다.
+  MiniProject_ERP_F_Contract_Register.c
+  MiniProject_ERP_F_jago.c
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(27,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(15,10): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(177,18): warning C4098: 'choijong_jaego_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(185,18): warning C4098: 'choijong_jaego_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(190,18): warning C4098: 'choijong_jaego_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(210,18): warning C4098: 'choijong_jaego_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(222,18): warning C4098: 'choijong_jaego_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(229,18): warning C4098: 'choijong_jaego_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(243,18): warning C4098: 'choijong_jaego_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(165,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(157,13): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(290,18): warning C4098: 'chulgo_jaego_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(308,22): warning C4098: 'chulgo_jaego_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(315,22): warning C4098: 'chulgo_jaego_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(392,29): warning C4098: 'chulgo_jaego_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(417,28): warning C4098: 'chulgo_jaego_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(278,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(267,13): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(449,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(468,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(475,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(495,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(506,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(513,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(527,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(539,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(546,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(561,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(572,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(579,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(593,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(604,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(611,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(625,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(637,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(644,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(658,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(671,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(678,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(692,18): warning C4098: 'choijong_jokup_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(437,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(429,13): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+  MiniProject_ERP_F_order.c
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_order.c(42,12): warning C4098: 'insertOrderData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_order.c(59,12): warning C4098: 'insertOrderData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_order.c(68,12): warning C4098: 'insertOrderData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_order.c(104,12): warning C4098: 'insertOrderData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_order.c(121,12): warning C4098: 'insertOrderData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_order.c(130,12): warning C4098: 'insertOrderData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_order.c(199,12): warning C4098: 'insertOrderData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_order.c(207,12): warning C4098: 'insertOrderData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_order.c(24,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_order.c(11,10): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_order.c(255,12): warning C4098: 'deleteOrderData': 'void' 함수에서 값을 반환하고 있습니다.
+  MiniProject_ERP_F_Production_warehousing.c
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(37,14): warning C4098: 'Production_warehousing': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(51,14): warning C4098: 'Production_warehousing': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(68,14): warning C4098: 'Production_warehousing': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(78,14): warning C4098: 'Production_warehousing': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(103,65): warning C4133: '함수': 'int [20]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(104,37): warning C4133: '함수': 'int [20]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(130,14): warning C4098: 'Production_warehousing': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(150,37): warning C4133: '함수': 'int [20]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(151,37): warning C4133: '함수': 'int [20]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(162,38): warning C4133: '함수': 'int [20]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(163,37): warning C4133: '함수': 'int [20]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(169,14): warning C4098: 'Production_warehousing': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(177,14): warning C4098: 'Production_warehousing': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(190,14): warning C4098: 'Production_warehousing': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(203,14): warning C4098: 'Production_warehousing': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(11,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(12,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(13,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(14,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(18,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(20,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(21,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Production_warehousing.c(23,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  MiniProject_ERP_F_Registration_work_performance.c
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(35,14): warning C4098: 'Registration_work_performance': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(52,14): warning C4098: 'Registration_work_performance': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(69,14): warning C4098: 'Registration_work_performance': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(76,14): warning C4098: 'Registration_work_performance': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(102,65): warning C4133: '함수': 'int [20]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(103,37): warning C4133: '함수': 'int [20]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(110,14): warning C4098: 'Registration_work_performance': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(117,10): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[100]'입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(123,45): warning C4133: '함수': 'int [20]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(124,37): warning C4133: '함수': 'int [20]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(128,56): warning C4133: '함수': 'int [100]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(140,14): warning C4098: 'Registration_work_performance': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(154,14): warning C4098: 'Registration_work_performance': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(169,14): warning C4098: 'Registration_work_performance': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(11,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(13,1): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(14,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(15,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(16,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(17,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Registration_work_performance.c(19,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  MiniProject_ERP_F_Warehousing.c
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(34,12): warning C4098: 'Insert_WarehousingData_from_BuyingList': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(51,12): warning C4098: 'Insert_WarehousingData_from_BuyingList': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(59,12): warning C4098: 'Insert_WarehousingData_from_BuyingList': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(90,12): warning C4098: 'Insert_WarehousingData_from_BuyingList': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(108,12): warning C4098: 'Insert_WarehousingData_from_BuyingList': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(115,12): warning C4098: 'Insert_WarehousingData_from_BuyingList': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(222,12): warning C4098: 'Insert_WarehousingData_from_BuyingList': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(237,12): warning C4098: 'Insert_WarehousingData_from_BuyingList': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(245,12): warning C4098: 'Insert_WarehousingData_from_BuyingList': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(256,12): warning C4098: 'Insert_WarehousingData_from_BuyingList': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(274,12): warning C4098: 'Insert_WarehousingData_from_BuyingList': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(291,12): warning C4098: 'Insert_WarehousingData_from_BuyingList': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(301,12): warning C4098: 'Insert_WarehousingData_from_BuyingList': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(308,12): warning C4098: 'Insert_WarehousingData_from_BuyingList': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(323,12): warning C4098: 'Insert_WarehousingData_from_BuyingList': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(24,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(11,10): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(360,12): warning C4098: 'Insert_WarehousingData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(377,12): warning C4098: 'Insert_WarehousingData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(385,12): warning C4098: 'Insert_WarehousingData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(416,12): warning C4098: 'Insert_WarehousingData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(432,12): warning C4098: 'Insert_WarehousingData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(440,12): warning C4098: 'Insert_WarehousingData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(481,12): warning C4098: 'Insert_WarehousingData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(497,12): warning C4098: 'Insert_WarehousingData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(505,12): warning C4098: 'Insert_WarehousingData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(571,12): warning C4098: 'Insert_WarehousingData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(579,12): warning C4098: 'Insert_WarehousingData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(594,12): warning C4098: 'Insert_WarehousingData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(604,12): warning C4098: 'Insert_WarehousingData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(611,12): warning C4098: 'Insert_WarehousingData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(626,12): warning C4098: 'Insert_WarehousingData': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(351,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(337,10): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(642,13): warning C4098: 'print_Warehousing_state': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(663,12): warning C4098: 'delete_Warehousing': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(697,12): warning C4098: 'delete_Warehousing': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(653,10): warning C4101: '_result' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(654,10): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Warehousing.c(655,6): warning C4101: 'result_count' :참조되지 않은 지역 변수입니다.
+  MiniProject_ERP_F_Work.c
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(25,18): warning C4098: 'By_work': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(44,18): warning C4098: 'By_work': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(51,18): warning C4098: 'By_work': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(99,18): warning C4098: 'By_work': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(106,18): warning C4098: 'By_work': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(16,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(17,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(11,15): warning C4101: 'WU' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(9,13): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(134,18): warning C4098: 'Product': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(150,18): warning C4098: 'Product': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(157,18): warning C4098: 'Product': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(195,18): warning C4098: 'Product': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(211,18): warning C4098: 'Product': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(217,18): warning C4098: 'Product': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(260,18): warning C4098: 'Product': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(267,18): warning C4098: 'Product': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(125,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(120,15): warning C4101: 'WU' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(118,13): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(290,22): warning C4098: 'Print_use': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(306,22): warning C4098: 'Print_use': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(336,22): warning C4098: 'Del': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(350,22): warning C4098: 'Del': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(369,22): warning C4098: 'Del': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_Work.c(384,22): warning C4098: 'Del': 'void' 함수에서 값을 반환하고 있습니다.
+  MiniProject_ERP_F_WorkPlan.c
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_WorkPlan.c(30,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_WorkPlan.c(9,10): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_WorkPlan.c(143,12): warning C4098: 'Insert_Work_order_File': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_WorkPlan.c(156,12): warning C4098: 'Insert_Work_order_File': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_WorkPlan.c(170,12): warning C4098: 'Insert_Work_order_File': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_WorkPlan.c(178,12): warning C4098: 'Insert_Work_order_File': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_WorkPlan.c(230,12): warning C4098: 'Insert_Work_order_File': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_WorkPlan.c(238,12): warning C4098: 'Insert_Work_order_File': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_WorkPlan.c(246,12): warning C4098: 'Insert_Work_order_File': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_WorkPlan.c(264,12): warning C4098: 'Insert_Work_order_File': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_WorkPlan.c(272,12): warning C4098: 'Insert_Work_order_File': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_WorkPlan.c(276,27): warning C4129: ',': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_WorkPlan.c(287,12): warning C4098: 'Insert_Work_order_File': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_WorkPlan.c(295,12): warning C4098: 'Insert_Work_order_File': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_WorkPlan.c(136,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_WorkPlan.c(132,10): warning C4101: 'find' :참조되지 않은 지역 변수입니다.
+  server.c
+  코드를 생성하고 있습니다...
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_F_jago.c(151): warning C4715: 'jaego_print': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\MiniProject_ERP_1InitSampleData.c(518): warning C4715: 'Init_SampleData': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\PKNU\source\repos\All_team_project\contract_view.c(113): warning C4715: 'con_view': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  All_team_project.vcxproj -> C:\Users\PKNU\source\repos\All_team_project\Debug\All_team_project.exe
